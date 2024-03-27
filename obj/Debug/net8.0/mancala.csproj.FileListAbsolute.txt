@@ -1,0 +1,14 @@
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\bin\Debug\net8.0\mancala.exe
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\bin\Debug\net8.0\mancala.deps.json
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\bin\Debug\net8.0\mancala.runtimeconfig.json
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\bin\Debug\net8.0\mancala.dll
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\bin\Debug\net8.0\mancala.pdb
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.AssemblyInfoInputs.cache
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.AssemblyInfo.cs
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.csproj.CoreCompileInputs.cache
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.dll
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\refint\mancala.dll
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.pdb
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\mancala.genruntimeconfig.cache
+C:\Users\lbays\Documents\Software_Eng\practice\mancala\obj\Debug\net8.0\ref\mancala.dll
